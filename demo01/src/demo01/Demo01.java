@@ -5,6 +5,10 @@ class Car{
     String color;
     int seats;
     int doors;
+    
+    void drive(){
+        
+    }
 }
 
 public class Demo01 {
