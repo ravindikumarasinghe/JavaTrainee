@@ -2,7 +2,9 @@
 package demo01;
 
 class Car{
-    
+    String color;
+    int seats;
+    int doors;
 }
 
 public class Demo01 {
