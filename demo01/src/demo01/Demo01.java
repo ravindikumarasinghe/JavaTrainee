@@ -7,7 +7,15 @@ class Car{
     int doors;
     
     void drive(){
-        
+      // do something  
+    }
+    
+    void reverse(){
+        // do something
+    }
+    
+    void park(){
+        // do something
     }
 }
 
