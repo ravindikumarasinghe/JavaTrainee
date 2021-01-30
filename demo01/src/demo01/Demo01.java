@@ -32,7 +32,9 @@ public class Demo01 {
         // TODO code application logic here
         
         Car mycar = new Car();
-        
+        mycar.color = "black";
+        mycar.doors = 4;
+        mycar.seats = 5;
     }
     
 }
