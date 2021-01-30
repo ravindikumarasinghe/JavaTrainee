@@ -1,6 +1,10 @@
 
 package demo01;
 
+    /** identify common properties & data types
+     * create class 
+    */ 
+
 class Car{
     String color;
     int seats;
@@ -26,6 +30,9 @@ public class Demo01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Car mycar = new Car();
+        
     }
     
 }
