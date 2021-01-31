@@ -11,15 +11,15 @@ class Car{
     int doors;
     
     void drive(){
-      // do something  
+      System.out.println("Drive");
     }
     
     void reverse(){
-        // do something
+        System.out.println("Reverse");
     }
     
     void park(){
-        // do something
+        System.out.println("Park");
     }
 }
 
@@ -42,6 +42,8 @@ public class Demo01 {
         mycar.drive();
         mycar.reverse();
         mycar.park();
+        
+        
     }
     
 }
