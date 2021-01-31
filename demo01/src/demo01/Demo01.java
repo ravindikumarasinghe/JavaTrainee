@@ -11,15 +11,15 @@ class Car{
     int doors;
     
     void drive(){
-      System.out.println("Drive");
+      System.out.println("Drive\n");
     }
     
     void reverse(){
-        System.out.println("Reverse");
+        System.out.println("Reverse\n");
     }
     
     void park(){
-        System.out.println("Park");
+        System.out.println("Park\n");
     }
 }
 
