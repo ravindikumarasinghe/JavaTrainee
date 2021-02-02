@@ -26,7 +26,11 @@ class Car{
 class Number{
     
     void numbers(){
+    int i = 1;
+    //declare & initialize variables
     
+   
+    }
 }
 
 public class Demo01 {
