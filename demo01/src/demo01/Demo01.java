@@ -29,9 +29,9 @@ class Number{
     int i = 1;
     //declare & initialize variables
     
-    while( i < 10) //loop as long as i<10
+    while( i <= 10) //loop as long as i<10
     {
-    System.out.println("i"); //print values for i
+    System.out.println( i ); //print values for i
     i++;
     }
     }
