@@ -57,7 +57,9 @@ public class Demo01 {
         mycar.reverse();
         mycar.park();
         
-        
+        //call number() method
+        Number c = new Number(); //create an object of Number class
+        c.numbers(); //call number() method for new object. 
     }
     
 }
