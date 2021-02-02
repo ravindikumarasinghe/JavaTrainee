@@ -23,8 +23,9 @@ class Car{
     }
 }
 
-class Squares{
+class Number{
     
+    void numbers(){
     
 }
 
