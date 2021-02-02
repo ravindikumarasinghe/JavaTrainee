@@ -23,6 +23,11 @@ class Car{
     }
 }
 
+class Squares{
+    
+    
+}
+
 public class Demo01 {
 
     /**
