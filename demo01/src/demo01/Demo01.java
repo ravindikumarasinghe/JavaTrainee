@@ -6,6 +6,23 @@ package demo01;
     */ 
 
 
+class Car{
+    String color;
+    int seats;
+    int doors;
+    
+    void drive(){
+      System.out.println("Drive\n");
+    }
+    
+    void reverse(){
+        System.out.println("Reverse\n");
+    }
+    
+    void park(){
+        System.out.println("Park\n");
+    }
+}
 class Number{
     
     void numbers(){
